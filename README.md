@@ -37,12 +37,15 @@ The system supports deployment-aware decision making for:
 
 ---
 
+
 ## Installation
 
 Install required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
 
 Run the Dashboard
 streamlit run app.py
