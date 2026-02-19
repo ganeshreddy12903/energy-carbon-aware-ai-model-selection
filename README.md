@@ -48,8 +48,9 @@ pip install -r requirements.txt
 
 
 Run the Dashboard
+```
 streamlit run app.py
-
+```
 Dataset
 
 This project uses the CIFAR-10 dataset.
